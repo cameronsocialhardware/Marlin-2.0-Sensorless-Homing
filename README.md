@@ -1,7 +1,5 @@
 # Marlin-2.0-Sensorless-Homing
 
-My 3D printer is a modified ANET A8 with:
-
 * SKR PRO v1.1 motherboard
 * 4x TMC2209 stepper motor drivers (X, Y, Z1, Z2)
 * Standard Titan Extruder
