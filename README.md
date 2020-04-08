@@ -17,3 +17,5 @@ Progress:
 Bugs: 
 
 * Z axis sensorless probing not working
+
+This project is for fun and learning!
