@@ -8,3 +8,12 @@ My 3D printer is a modified ANET A8 with:
 * V6 all-metal hotend
 
 I have started this repository to help me enable sensorless homing for the X, Y, and Z axis. 
+
+Progress:
+
+* X axis sensorless homing is working 
+* Y axis sensorless homing is working
+
+Bugs: 
+
+* Z axis sensorless probing not working
