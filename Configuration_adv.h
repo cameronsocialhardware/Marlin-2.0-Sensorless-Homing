@@ -2238,6 +2238,7 @@
    */
   #define STEALTHCHOP_XY
   #define STEALTHCHOP_Z
+  #define STEALTHCHOP_Z2
   #define STEALTHCHOP_E
 
   /**
