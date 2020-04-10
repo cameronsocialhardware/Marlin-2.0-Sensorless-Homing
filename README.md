@@ -16,4 +16,6 @@ Bugs:
 
 * Z axis sensorless probing not working
 
+Currently experimenting with reducing the current to the Z steppers to reduce torque to make StallGuard viable on the Z axis.
+
 This project is for fun and learning!
